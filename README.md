@@ -37,8 +37,19 @@ ssh 用户名@服务器地址
 
 <img src="https://github.com/wukongdaily/HowToUseSSH/assets/143675923/470ea6c4-98a4-42c5-9654-7277de97c860" width="80%"/>
 
+# For windows 10/11 执行下列命令
+```
+del /q %userprofile%\.ssh\known_hosts
 
-`del /q %userprofile%\.ssh\known_hosts`
+```
+# For macOS 执行下列命令
+```
+rm -f "$HOME/.ssh/known_hosts"
+
+```
+<img src="https://github.com/wukongdaily/HowToUseSSH/assets/143675923/77ae42b8-c870-499a-9c18-9f5c146f01d3" width="50%">
+
+
 
 
 
