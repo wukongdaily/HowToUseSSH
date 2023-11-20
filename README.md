@@ -49,7 +49,9 @@ rm -f "$HOME/.ssh/known_hosts"
 ```
 <img src="https://github.com/wukongdaily/HowToUseSSH/assets/143675923/77ae42b8-c870-499a-9c18-9f5c146f01d3" width="50%">
 
-
+# 如果你经常使用ssh 还是建议使用第三方ssh工具
+## final shell
+https://www.hostbuf.com/t/988.html
 
 
 
